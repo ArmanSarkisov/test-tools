@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`suite name > should render component 1`] = `
+<button
+  class="_button_f8f296"
+  type="button"
+>
+  My custom button
+</button>
+`;
